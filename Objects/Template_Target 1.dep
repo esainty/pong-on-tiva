@@ -1,0 +1,16 @@
+Dependencies for Project 'Template', Target 'Target 1': (DO NOT MODIFY !)
+F (.\main.c)(0x56321D81)(-c --cpu Cortex-M4.fp -D__EVAL -g -O0 --apcs=interwork --split_sections-I C:\Users\Takai\Documents\MPT\Pong\RTE-I "E:\Program Files (x86)\ARM\ARM\PACK\ARM\CMSIS\4.4.0\CMSIS\Include"-I "E:\Program Files (x86)\ARM\ARM\PACK\Keil\TM4C_DFP\1.0.0\Device\Include\TM4C123"-D__UVISION_VERSION="516" -D_RTE_ -DTM4C123GH6PM-o .\objects\main.o --omf_browse .\objects\main.crf --depend .\objects\main.d)
+I (lcd.h)(0x562846A2)
+F (.\lcd.h)(0x562846A2)()
+F (.\lcd.lib)(0x562846A2)()
+F (RTE\Device\TM4C123GH6PM\startup_TM4C123.s)(0x5630CF22)(--cpu Cortex-M4.fp --pd "__EVAL SETA 1" -g --apcs=interwork -I C:\Users\Takai\Documents\MPT\Pong\RTE-I "E:\Program Files (x86)\ARM\ARM\PACK\ARM\CMSIS\4.4.0\CMSIS\Include"-I "E:\Program Files (x86)\ARM\ARM\PACK\Keil\TM4C_DFP\1.0.0\Device\Include\TM4C123"--pd "__UVISION_VERSION SETA 516" --pd "_RTE_ SETA 1" --pd "TM4C123GH6PM SETA 1"--list .\listings\startup_tm4c123.lst --xref -o .\objects\startup_tm4c123.o --depend .\objects\startup_tm4c123.d)
+F (RTE\Device\TM4C123GH6PM\system_TM4C123.c)(0x562846A2)(-c --cpu Cortex-M4.fp -D__EVAL -g -O0 --apcs=interwork --split_sections-I C:\Users\Takai\Documents\MPT\Pong\RTE-I "E:\Program Files (x86)\ARM\ARM\PACK\ARM\CMSIS\4.4.0\CMSIS\Include"-I "E:\Program Files (x86)\ARM\ARM\PACK\Keil\TM4C_DFP\1.0.0\Device\Include\TM4C123"-D__UVISION_VERSION="516" -D_RTE_ -DTM4C123GH6PM-o .\objects\system_tm4c123.o --omf_browse .\objects\system_tm4c123.crf --depend .\objects\system_tm4c123.d)
+I (E:\Program Files (x86)\ARM\ARM\ARMCC\include\stdint.h)(0x55AED9D2)
+I (E:\Program Files (x86)\ARM\ARM\PACK\Keil\TM4C_DFP\1.0.0\Device\Include\TM4C123\TM4C123.h)(0x530E8276)
+I (E:\Program Files (x86)\ARM\ARM\PACK\Keil\TM4C_DFP\1.0.0\Device\Include\TM4C123\TM4C123GH6PM.h)(0x530E8276)
+I (E:\Program Files (x86)\ARM\ARM\PACK\ARM\CMSIS\4.4.0\CMSIS\Include\core_cm4.h)(0x55D4FCE4)
+I (E:\Program Files (x86)\ARM\ARM\PACK\ARM\CMSIS\4.4.0\CMSIS\Include\core_cmInstr.h)(0x55D402E8)
+I (E:\Program Files (x86)\ARM\ARM\PACK\ARM\CMSIS\4.4.0\CMSIS\Include\cmsis_armcc.h)(0x55D5499A)
+I (E:\Program Files (x86)\ARM\ARM\PACK\ARM\CMSIS\4.4.0\CMSIS\Include\core_cmFunc.h)(0x55D402E8)
+I (E:\Program Files (x86)\ARM\ARM\PACK\ARM\CMSIS\4.4.0\CMSIS\Include\core_cmSimd.h)(0x55D402E8)
+I (E:\Program Files (x86)\ARM\ARM\PACK\Keil\TM4C_DFP\1.0.0\Device\Include\TM4C123\system_TM4C123.h)(0x51B67386)
